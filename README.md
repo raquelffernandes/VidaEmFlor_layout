@@ -1,3 +1,3 @@
 # VidaEmFlor_layout
 
-#Layout desenvolvido como forma educacional
+Layout desenvolvido como forma educacional
